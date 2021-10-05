@@ -1,0 +1,8 @@
+The software which we used to run our project has been provided as a open source research collaboratory tool named as "Google Colab"
+
+Google Colab is available in the internet and has the URL "https://colab.research.google.com/"
+
+1) upload the .pynb source code file
+2) upload the input datasets into the gdrive to be used
+3) set the required path directories and run the code
+4) Refer the project video for the ease in execution
